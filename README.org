@@ -1,0 +1,10 @@
+* synonyms
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/synonyms.git   |
+| commit  | 87cb25f  |
+| systems | synonyms |
+|---------+-------------------------------------------|
+
